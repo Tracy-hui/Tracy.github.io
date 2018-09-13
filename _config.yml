@@ -3,7 +3,7 @@ title: Tracy
 email: 570768724@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   纵使秋风起，人生不言弃.
-baseurl: "/clean" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://tracy-hui.github.io/" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  tracy-hui

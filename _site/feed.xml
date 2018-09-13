@@ -4,8 +4,8 @@
     <title>Clean</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml.
 </description>
-    <link>http://yourdomain.com/clean/</link>
-    <atom:link href="http://yourdomain.com/clean/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://tracy-hui.github.io/</link>
+    <atom:link href="https://tracy-hui.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Sun, 04 Oct 2015 14:47:29 +0530</pubDate>
     <lastBuildDate>Sun, 04 Oct 2015 14:47:29 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
